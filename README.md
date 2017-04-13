@@ -1,0 +1,4 @@
+# programming-language-practises
+
+色んなプログラミング言語のトレーニング用.
+それぞれバラバラのrepositoryに分けてるほどのものではないと思ったのでここにまとめる。
